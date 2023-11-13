@@ -1,7 +1,5 @@
 from django.db import migrations, models
 
-from ..settings import PUSH_NOTIFICATIONS_SETTINGS as SETTINGS
-
 
 class Migration(migrations.Migration):
 	dependencies = [
